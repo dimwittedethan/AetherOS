@@ -1,4 +1,4 @@
-= AetherOS
+AetherOS
 
 AetherOS is an experimental, independent Linux distribution built and maintained by one person. Development is an ongoing project, and progress may sometimes be slow due to school, personal commitments, and the amount of work involved in maintaining an entire distro.
 
