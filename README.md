@@ -14,13 +14,15 @@ AetherOS is available in two ISO editions, allowing you to choose the experience
 
 It provides the full AetherOS experience, with a modern desktop and features intended for capable systems.
 
-### 🌌 Aurora
+### 🌌 Aurora (Coming Soon)
 
 **Aurora** is designed for **older, lower-end and less powerful PCs**.
 
 It focuses on keeping resource usage lower while still providing a comfortable and usable desktop experience, helping give older hardware a second life.
 
 Both editions share the same AetherOS philosophy and are designed to be easy to install and use.
+
+With the expected release date of around September to December 2026.
 
 ---
 
